@@ -49,7 +49,5 @@ def __run__():
     for x in threads: x.join()
     open('tokens.txt', 'r').close()
 
-
-
 if __name__ == '__main__':
     __run__()
