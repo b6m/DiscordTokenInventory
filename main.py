@@ -9,7 +9,8 @@ def __title__(title):
 
 def __DTI__(token):
     __amount__                          = sum(1 for line in open('tokens.txt'))
-    __title__(f"DTI Using {__amount__} Tokens, {len(threads)} Threads")
+    __threads__                         = {len(threads)}
+    __title__(f"DTI Using {__amount__} Tokens, {__threads__} Threads")
     with open('tokens.txt') as e:
         for line in e:
             _token                      =      line.strip('')
