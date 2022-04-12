@@ -4,3 +4,8 @@
 > If You Have A LIFE OMG, Feel Free To Pull A Request <3
 
 Goofy Aww
+
+
+### Todo:
+- Fix Regex 
+- Make It Check Codes To See If They're Valid Or Not
