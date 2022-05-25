@@ -11,3 +11,4 @@ Goofy Aww
 - Make It Check Codes To See If They're Valid Or Not
 - Make It Check The Gift Inventory, And Not Only Promotional Codes
 - Make It Print Basic Info Such As, UserName, Tag, ID
+Educational Purposes Only
